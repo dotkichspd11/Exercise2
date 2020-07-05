@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="learn">LEARN</string>
+    <string name="practice">PRACTICE</string>
+    <string name="test">TEST</string>
+</resources>
